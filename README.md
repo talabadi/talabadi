@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Talal Alabadi 👋
+Computer Systems Engineering student at ASU
 
 <!--
 **talabadi/talabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
